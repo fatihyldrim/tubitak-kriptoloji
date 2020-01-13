@@ -1,0 +1,10 @@
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\bin\Debug\Harf_Rakam.exe.config
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\bin\Debug\Harf_Rakam.exe
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\bin\Debug\Harf_Rakam.pdb
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\obj\Debug\Harf_Rakam.Form1.resources
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\obj\Debug\Harf_Rakam.Properties.Resources.resources
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\obj\Debug\Harf_Rakam.csproj.GenerateResource.Cache
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\obj\Debug\Harf_Rakam.exe
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\obj\Debug\Harf_Rakam.pdb
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\obj\Debug\Harf_Rakam.csprojAssemblyReference.cache
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\Harf_Rakam\Harf_Rakam\obj\Debug\Harf_Rakam.csproj.CoreCompileInputs.cache
